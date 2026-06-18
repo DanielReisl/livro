@@ -1,0 +1,17 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:creator opf:role="aut" opf:file-as="Arendt, Hannah">Hannah Arendt</dc:creator>
+<dc:identifier opf:scheme="calibre" id="calibre_id">c2ce5140-9539-4bf0-aabe-79cd0b1db317</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c2ce5140-9539-4bf0-aabe-79cd0b1db317</dc:identifier>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-08-06T07:00:00+00:00</dc:date>
+        <dc:description>Em 1960, sequestrado num subúrbio de Buenos Aires por um comando israelense, Adolf Eichmann é levado para Jerusalém, para o que deveria ser o maior julgamento de um carrasco nazista depois do tribunal de Nuremberg. Mas, durante o processo, em vez do monstro sanguinário que todos esperavam ver, surge um funcionário medíocre, um arrivista incapaz de refletir sobre seus atos ou de fugir aos clichês burocráticos. É justamente aí que o olhar lúcido de Hannah Arendt descobre a "banalidade do mal", ameaça maior às sociedades democráticas. Numa mescla brilhante de jornalismo político e reflexão filosófica, Arendt investiga questões sempre atuais, como a capacidade do Estado de transformar o exercício da violência homicida em mero cumprimento de metas e organogramas.</dc:description>
+        <dc:title>Eichmann em Jerusalém - Um relato sobre a banalidade do mal</dc:title>
+<meta name="calibre:title_sort" content="Eichmann em Jerusalém - Um relato sobre a banalidade do mal"/>
+<dc:language>por</dc:language>
+</metadata>
+    <guide>
+        <reference type="cover" title="Capa" href="cover.jpg"/>
+    </guide>
+</package>
